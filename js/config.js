@@ -45,8 +45,8 @@ const API_SITES = {
     },
     fhzy: {
         api: 'http://fhapi9.com/api.php/provide/vod',
-       name: '🔞番号',
-    adult: true
+        name: '🔞番号',
+        adult: true
     },
     AIvinzy: {
         api: 'http://lbapiby.com/api.php/provide/vod',
@@ -96,31 +96,38 @@ const API_SITES = {
      },
     slzy: {
         api: 'https://slapibf.com/api.php/provide/vod',
-        name: '🔞森林'
+        name: '🔞森林',
+        adult: true
     },
     dnzzy: {
         api: 'https://apidanaizi.com/api.php/provide/vod',
-        name: '🔞大奶子资源'
+        name: '🔞大奶子资源',
+        adult: true
     },
     xjzy: {
         api: 'https://api.xiaojizy.live/provide/vod',
-        name: '🔞小鸡资源'
+        name: '🔞小鸡资源',
+        adult: true
     },
     xbzy: {
         api: 'https://www.xxibaozyw.com/api.php/provide/vod',
-        name: '🔞细胞网资源'
+        name: '🔞细胞网资源',
+        adult: true
     },
     kbzy: {
         api: 'https://gayapi.com/api.php/provide/vod',
-        name: '🔞快播资源'
+        name: '🔞快播资源',
+        adult: true
     },
     thzy: {
         api: 'https://thzy1.me/api.php/provide/vod',
-        name: '🔞桃花资源'
+        name: '🔞桃花资源',
+        adult: true
     },  
     jpzy: {
         api: 'https://www.jingpinx.com/api.php/provide/vod',
-        name: '🔞精品资源'
+        name: '🔞精品资源',
+        adult: true
     }
 };
 
