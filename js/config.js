@@ -94,7 +94,7 @@ const API_SITES = {
          name: '🔞玉兔资源',
          adult: true
      },
-    sl: {
+    slzy: {
         api: 'https://slapibf.com/api.php/provide/vod',
         name: '🔞森林'
     },
