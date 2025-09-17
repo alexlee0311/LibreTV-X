@@ -20,11 +20,6 @@ const CUSTOMER_SITES = {
          api: 'https://cj.ffzyapi.com/api.php/provide/vod',
          name: '🔵非凡源',
     },
-    ffzy: {
-        api: 'http://ffzy5.tv/api.php/provide/vod',
-        name: '🔵非凡影视',
-        detail: 'http://ffzy5.tv', 
-    },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
         name: '🔵黑木耳',
@@ -131,9 +126,13 @@ const CUSTOMER_SITES = {
         api: 'https://iqiyizyapi.com/api.php/provide/vod',
         name: '🔵爱奇艺影视'
     },
-    nnzy: {
-        api: 'https://niuniuzy1.com/api.php/provide/vod',
-        name: '🔵牛牛资源'
+    xmmzy: {
+        api: 'https://zy.xmm.hk/api.php/provide/vod',
+        name: '🔵小猫咪资源'
+    },
+   nnzy: {
+        api: 'https://p2100.net/api.php/provide/vod',
+        name: '🔵飘零资源'
     },
     hyzy: {
         api: 'https://www.huyaapi.com/api.php/provide/vod',
