@@ -103,7 +103,7 @@ const CUSTOMER_SITES = {
         api: 'https://sdzyapi.com/api.php/provide/vod/from/sdm3u8',
         name: '🔵量子'
     },
-    nnzy: {
+    nn: {
         api: 'https://api.niuniuzy.me/api.php/provide/vod',
         name: '🔵牛牛'
     },
@@ -111,17 +111,33 @@ const CUSTOMER_SITES = {
         api: 'https://suoniapi.com/api.php/provide/vod',
         name: '🔵索尼'
     },
-     hyzy: {
-        api: 'https://www.huyaapi.com/api.php/provide/vod',
-        name: '🔵虎牙'
-    },
-     hhzy: {
+    hhzy: {
         api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '🔵豪华'
     },
     yyzy: {
         api: 'https://cj.yayazy.net/api.php/provide/vod',
         name: '🔵丫丫'
+    },
+   mtzy: {
+        api: 'https://mtzy0.com/api.php/provide/vod',
+        name: '🔵茅台资源'
+    },
+     jyzy: {
+        api: 'https://jinyingzy.com/api.php/provide/vod',
+        name: '🔵金鹰资源'
+    },
+     aqyys: {
+        api: 'https://iqiyizyapi.com/api.php/provide/vod',
+        name: '🔵爱奇艺影视'
+    },
+    nnzy: {
+        api: 'https://niuniuzy1.com/api.php/provide/vod',
+        name: '🔵牛牛资源'
+    },
+    hyzy: {
+        api: 'https://www.huyaapi.com/api.php/provide/vod',
+        name: '🔵虎牙'
     }
 };
 
