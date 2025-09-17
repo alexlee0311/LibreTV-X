@@ -128,6 +128,41 @@ const API_SITES = {
         api: 'https://www.jingpinx.com/api.php/provide/vod',
         name: '🔞精品资源',
         adult: true
+    },
+    xfzy: {
+        api: 'https://xzybb2.com/api.php/provide/vod',
+        name: '🔞幸资源',
+        adult: true
+    },
+    r91zy: {
+        api: 'https://91jpzyw.com/api.php/provide/vod',
+        name: '🔞91资源',
+        adult: true
+    },
+    fqzy: {
+        api: 'https://fqzy.me/api.php/provide/vod',
+        name: '🔞番茄资源',
+        adult: true
+    },
+    xbzy: {
+        api: 'https://xingba111.com/api.php/provide/vod',
+        name: '🔞杏吧资源',
+        adult: true
+    },
+    yyzy: {
+        api: 'https://yyzywcj.com/api.php/provide/vod',
+        name: '🔞优优资源',
+        adult: true
+    },
+    swzy: {
+        api: 'https://siwazyw.tv/api.php/provide/vod',
+        name: '🔞丝袜资源',
+        adult: true
+    },  
+    jpzy: {
+        api: 'https://doudouzy.com/api.php/provide/vod',
+        name: '🔞豆豆资源',
+        adult: true
     }
 };
 
